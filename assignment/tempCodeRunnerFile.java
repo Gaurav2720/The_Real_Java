@@ -1,3 +1,4 @@
+package assignment;
 //4. Write a program to find all duplicate elements in an array using O(1) extra space
 class Test {
     public static void main(String[] args) {
